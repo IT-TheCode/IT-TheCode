@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IT-TheCode
-- 👀 I’m interested in Microcontrollers
+- 👀 I’m interested in Microcontrollers, Cybersecurity, Serveradministration
 - 🌱 I’m currently learning Python, C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Game-Developement, Micro-Computing
 - 📫 How to reach me Discord: BaseballBoy#1708
 
 <!---
