@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Microcontrollers, Cybersecurity, Serveradministration<br>👯 I’m looking to collaborate on Game Developement<br>🤝 I’m looking for help with Microcontrollers <br>🌱 I’m currently learning C#, Game Developement<br>💬 Ask me about anything that has to do with IT<br>⚡ Fun fact ask me anything and I will solve it
+🔭 I’m currently working on Microcontrollers, Cybersecurity, Serveradministration<br>👯 I’m looking to collaborate on Game Developement<br>🤝 I’m looking for help with Microcontrollers <br>🌱 I’m currently learning Python, Game Developement<br>💬 Ask me about anything that has to do with IT<br>⚡ Fun fact ask me anything and I will solve it
 
 
 ## 🌐 Socials:
