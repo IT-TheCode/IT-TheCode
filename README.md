@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Microcontrollers, Cybersecurity, Serveradministration<br>👯 I’m looking to collaborate on Artificial Intelligence<br>🤝 I’m looking for help with Microcontrollers, AI<br>🌱 I’m currently learning Python<br>💬 Ask me about anything that has to do with IT<br>⚡ Fun fact: ask me anything and I will solve it
+🔭 I’m currently working on Microcontrollers, Cybersecurity, Serveradministration<br>👯 I’m looking to collaborate on Artificial Intelligence<br>🤝 I’m looking for help with Microcontrollers, AI<br>🌱 I’m currently learning Python<br>💬 Ask me about anything that has to do with IT<br>⚡ Fun fact: ask me anything and I will try to solve it
 
 
 ## 🌐 Socials:
